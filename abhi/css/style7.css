@@ -1,0 +1,64 @@
+.a{
+width:600px;
+height:500px;
+border:2px solid black;
+}
+
+.ab{
+	margin-top:20px;
+	margin-left:20px;
+	margin-right:220px;
+width:80px;
+height:450px;
+border:2px solid black;
+
+float:left;
+}
+
+.bc{
+	
+margin-top:20px;
+	margin-left:120px;
+	
+width:150px;
+height:100px;
+border:2px solid black;
+
+float:left;
+}
+
+.cd{
+	
+margin-top:20px;
+	margin-left:20px;
+	
+width:100px;
+height:120px;
+border:2px solid black;
+
+float:left;
+}
+
+.de{
+	
+margin-top:20px;
+	margin-left:20px;
+
+width:100px;
+height:120px;
+border:2px solid black;
+
+float:left;
+}
+
+.ef{
+	
+margin-top:20px;
+	margin-left:20px;
+
+width:150px;
+height:100px;
+border:2px solid black;
+
+float:left;
+}
